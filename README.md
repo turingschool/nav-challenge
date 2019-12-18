@@ -14,6 +14,8 @@ Ignore the loading gifs - that is NOT a requirement, nor do we recommend you goi
 
 ## Iterations
 
+You have from whenever we finish giving directions until 11:00 to work through as much as you can. During this time, feel free to work from a location on campus where you feel most comfortable/focused.
+
 ### Iteration 0: Basic Layout
 
 Again, we aren't worried about the details of the comp recreation, but get a basic layout in place with HTML and CSS so that you can see what you're working with. Choose any colors/fonts you'd like.
