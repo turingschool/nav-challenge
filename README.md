@@ -33,3 +33,9 @@ It doesn't need to be anything fancy, but create a small bit of content that is 
 ### Iteration 3: Clean Code
 
 Do a sweep through your code and refactor anything that needs it!
+
+## Submission
+
+By 11:00, please submit your repo and GitHub pages to the Google Form provided in the cohort channel.
+
+You are more than welcome to continue working on this over break if you don't finish during this sitting!
