@@ -10,6 +10,8 @@ You'll build a small app that has this functionality:
 
 <img src="./udemy.gif">
 
+Ignore the loading gifs - that is NOT a requirement, nor do we recommend you going down the rabbit hole of implementing.
+
 ## Iterations
 
 ### Iteration 0: Basic Layout
