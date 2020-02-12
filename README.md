@@ -1,4 +1,4 @@
-# Week 4 Challenge: Nav Indicators
+# Pair Challenge: Nav Indicators
 
 ## Overview
 
@@ -12,23 +12,15 @@ You'll build a small app that has this functionality:
 
 Ignore the loading gifs - that is NOT a requirement, nor do we recommend you going down the rabbit hole of implementing.
 
-## Solo Challenge Expectations
+## Workflow
 
-This is challenge for YOU to see what you know and how much you have grown.
-
-- You should work on this without the help from classmates, rocks, or mentors.
-- You should work on this without referencing any old projects.
-- You should google, read documentation, pseudo-code, and plan!
-
-## Iterations
-
-You have from whenever we finish giving directions until 11:00 to work through as much as you can. During this time, feel free to work from a location on campus where you feel most comfortable/focused.
+You have from whenever we finish giving directions until about noon to work through as much as you can. During this time, feel free to work from a location on campus where you feel most comfortable/focused!
 
 ### Iteration 0: Basic Layout
 
 Again, we aren't worried about the details of the comp recreation, but get a basic layout in place with HTML and CSS so that you can see what you're working with. Choose any colors/fonts you'd like.
 
-_You shouldn't spend more than 30 minutes on this._
+_You shouldn't spend more than 25 minutes on this._
 
 ### Iteration 1: Nav Indicators
 
@@ -42,10 +34,11 @@ You do NOT need to exactly re-create what is shown in the giphy above.
 
 ### Iteration 3: Clean Code
 
-Do a sweep through your code and refactor anything that needs it!
+If time, do a sweep through your code and refactor anything that needs it!
 
 ## Submission
 
-By 11:00, please submit your repo and GitHub pages to the Google Form provided in the cohort channel.
-
-You are more than welcome to continue working on this over break if you don't finish during this sitting!
+We aren't asking that you submit your code, but do ask that you spend time reflecting on the following:
+- What was something you did today that seemed almost impossible in Week 1?
+- What was challenging about this - technically and workflow and process-wise?
+- What is one area you'd like to focus on (maybe in a mentor meeting, with a rock, get a small group Friday session on, or just something to keep in mind while you work) over the next week? You can't do it all. One thing, people.
